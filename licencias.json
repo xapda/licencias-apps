@@ -1,23 +1,72 @@
-{
-  "licencias": [
+{"licencias": [
     {
-      "cliente": "CLIENTE_A",
-      "app": "APP_VENTAS",
-      "fecha_ini": "2025-01-01",
-      "fecha_fin": "2026-12-31",
+      "cliente": "OpenMind Advisory",
+      "sede": "Gerencia",
+      "app": "OMA_PLATURNO",
+      "fecha_ini": "2026-03-20",
+      "fecha_fin": "2027-03-20",
       "discos_autorizados": [
-        "ABC123456",
-        "XYZ789456",
-	"0025_38A6_11D5_775A."
+        "0025_38A6_11D5_775A."
       ]
     },
     {
-      "cliente": "CLIENTE_B",
-      "app": "APP_INVENTARIO",
-      "fecha_ini": "2025-06-01",
-      "fecha_fin": "2026-06-30",
+      "cliente": "EL GRINGO SAS",
+      "sede": "EL GRINGO SAN FERNANDO",
+      "app": "OMA_PLATURNO",
+      "fecha_ini": "2026-03-20",
+      "fecha_fin": "2027-03-20",
       "discos_autorizados": [
-        "HD998877"
+        "HD001"
+      ]
+    },
+    {
+      "cliente": "EL GRINGO SAS",
+      "sede": "EL GRINGO UNICENTRO",
+      "app": "OMA_PLATURNO",
+      "fecha_ini": "2026-03-20",
+      "fecha_fin": "2027-03-20",
+      "discos_autorizados": [
+        "HD002"
+      ]
+    },
+    {
+      "cliente": "EL GRINGO SAS",
+      "sede": "EL GRINGO PE�ON",
+      "app": "OMA_PLATURNO",
+      "fecha_ini": "2026-03-20",
+      "fecha_fin": "2027-03-20",
+      "discos_autorizados": [
+        "HD003"
+      ]
+    },
+    {
+      "cliente": "EL GRINGO SAS",
+      "sede": "EL GRINGO PANCE",
+      "app": "OMA_PLATURNO",
+      "fecha_ini": "2026-03-20",
+      "fecha_fin": "2027-03-20",
+      "discos_autorizados": [
+        "HD004"
+      ]
+    },
+    {
+      "cliente": "EL GRINGO SAS",
+      "sede": "EL GRINGO CATERING",
+      "app": "OMA_PLATURNO",
+      "fecha_ini": "2026-03-20",
+      "fecha_fin": "2027-03-20",
+      "discos_autorizados": [
+        "HD005"
+      ]
+    },
+    {
+      "cliente": "EL GRINGO SAS",
+      "sede": "MERCADILLO",
+      "app": "OMA_PLATURNO",
+      "fecha_ini": "2026-03-20",
+      "fecha_fin": "2027-03-20",
+      "discos_autorizados": [
+        "HD006"
       ]
     }
   ]
