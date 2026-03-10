@@ -4,7 +4,7 @@
       "cliente": "CLIENTE_A",
       "app": "APP_VENTAS",
       "fecha_ini": "2025-01-01",
-      "fecha_fin": "2026-01-31",
+      "fecha_fin": "2026-12-31",
       "discos_autorizados": [
         "ABC123456",
         "XYZ789456",
