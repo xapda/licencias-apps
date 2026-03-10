@@ -1,73 +1,45 @@
-{"licencias": [
-    {
-      "cliente": "OpenMind Advisory",
-      "sede": "Gerencia",
-      "app": "OMA_PLATURNO",
-      "fecha_ini": "2026-03-09",
-      "fecha_fin": "2027-03-20",
-      "discos_autorizados": [
-        "0025_38A6_11D5_775A."
-      ]
-    },
-    {
-      "cliente": "EL GRINGO SAS",
-      "sede": "EL GRINGO SAN FERNANDO",
-      "app": "OMA_PLATURNO",
-      "fecha_ini": "2026-03-09",
-      "fecha_fin": "2027-03-20",
-      "discos_autorizados": [
-        "HD001"
-      ]
-    },
-    {
-      "cliente": "EL GRINGO SAS",
-      "sede": "EL GRINGO UNICENTRO",
-      "app": "OMA_PLATURNO",
-      "fecha_ini": "2026-03-09",
-      "fecha_fin": "2027-03-20",
-      "discos_autorizados": [
-        "HD002"
-      ]
-    },
-    {
-      "cliente": "EL GRINGO SAS",
-      "sede": "EL GRINGO PENON",
-      "app": "OMA_PLATURNO",
-      "fecha_ini": "2026-03-09",
-      "fecha_fin": "2027-03-20",
-      "discos_autorizados": [
-        "HD003"
-      ]
-    },
-    {
-      "cliente": "EL GRINGO SAS",
-      "sede": "EL GRINGO PANCE",
-      "app": "OMA_PLATURNO",
-      "fecha_ini": "2026-03-09",
-      "fecha_fin": "2027-03-20",
-      "discos_autorizados": [
-        "HD004"
-      ]
-    },
-    {
-      "cliente": "EL GRINGO SAS",
-      "sede": "EL GRINGO CATERING",
-      "app": "OMA_PLATURNO",
-      "fecha_ini": "2026-03-09",
-      "fecha_fin": "2027-03-20",
-      "discos_autorizados": [
-        "HD005"
-      ]
-    },
-    {
-      "cliente": "EL GRINGO SAS",
-      "sede": "MERCADILLO",
-      "app": "OMA_PLATURNO",
-      "fecha_ini": "2026-03-09",
-      "fecha_fin": "2027-03-20",
-      "discos_autorizados": [
-        "HD006"
-      ]
-    }
-  ]
-}
+{"licencias":[  {
+    "cliente": "OpenMind Advisory",
+    "sede": "Gerencia",
+    "app": "OMA_PLATURNO",
+    "fecha_ini": "2026-03-20",
+    "fecha_fin": "2027-03-20",
+    "discos_autorizados": [
+      "0025_38A6_11D5_775A."
+    ],
+    "firma": "1179B"
+  },
+  {
+    "cliente": "CLIENTE_B",
+    "sede": "EL GRINGO SAN FERNANDO",
+    "app": "OMA_PLATURNO",
+    "fecha_ini": "2026-03-20",
+    "fecha_fin": "2027-03-20",
+    "discos_autorizados": [
+      "HD998877"
+    ],
+    "firma": "A3DB2"
+  },
+  {
+    "cliente": "CLIENTE_B",
+    "sede": "EL GRINGO SAN FERNANDO",
+    "app": "OMA_PLATURNO",
+    "fecha_ini": "2026-03-20",
+    "fecha_fin": "2027-03-20",
+    "discos_autorizados": [
+      "HD998878"
+    ],
+    "firma": "2A0B3"
+  },
+  {
+    "cliente": "CLIENTE_B",
+    "sede": "EL GRINGO SAN FERNANDO",
+    "app": "OMA_PLATURNO",
+    "fecha_ini": "2026-03-20",
+    "fecha_fin": "2027-03-20",
+    "discos_autorizados": [
+      "HD998879"
+    ],
+    "firma": "165F8F"
+  }
+]}
