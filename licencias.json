@@ -2,7 +2,7 @@
     "cliente": "OpenMind Advisory",
     "sede": "Gerencia",
     "app": "OMA_PLATURNO",
-    "fecha_ini": "2026-03-20",
+    "fecha_ini": "2026-03-09",
     "fecha_fin": "2027-03-20",
     "discos_autorizados": [
       "0025_38A6_11D5_775A."
@@ -10,36 +10,69 @@
     "firma": "1179B"
   },
   {
-    "cliente": "CLIENTE_B",
+    "cliente": "EL GRINGO SAS",
     "sede": "EL GRINGO SAN FERNANDO",
     "app": "OMA_PLATURNO",
-    "fecha_ini": "2026-03-20",
+    "fecha_ini": "2026-03-09",
     "fecha_fin": "2027-03-20",
     "discos_autorizados": [
-      "HD998877"
+      "HD001"
     ],
-    "firma": "A3DB2"
+    "firma": "526CB"
   },
   {
-    "cliente": "CLIENTE_B",
-    "sede": "EL GRINGO SAN FERNANDO",
+    "cliente": "EL GRINGO SAS",
+    "sede": "EL GRINGO UNICENTRO",
     "app": "OMA_PLATURNO",
-    "fecha_ini": "2026-03-20",
+    "fecha_ini": "2026-03-09",
     "fecha_fin": "2027-03-20",
     "discos_autorizados": [
-      "HD998878"
+      "HD002"
     ],
-    "firma": "2A0B3"
+    "firma": "F91CE"
   },
   {
-    "cliente": "CLIENTE_B",
-    "sede": "EL GRINGO SAN FERNANDO",
+    "cliente": "EL GRINGO SAS",
+    "sede": "EL GRINGO PE�ON",
     "app": "OMA_PLATURNO",
-    "fecha_ini": "2026-03-20",
+    "fecha_ini": "2026-03-09",
     "fecha_fin": "2027-03-20",
     "discos_autorizados": [
-      "HD998879"
+      "HD003"
     ],
-    "firma": "165F8F"
+    "firma": "9C5D7"
+  },
+  {
+    "cliente": "EL GRINGO SAS",
+    "sede": "EL GRINGO PANCE",
+    "app": "OMA_PLATURNO",
+    "fecha_ini": "2026-03-09",
+    "fecha_fin": "2027-03-20",
+    "discos_autorizados": [
+      "HD004"
+    ],
+    "firma": "13CCEF"
+  },
+  {
+    "cliente": "EL GRINGO SAS",
+    "sede": "EL GRINGO CATERING",
+    "app": "OMA_PLATURNO",
+    "fecha_ini": "2026-03-09",
+    "fecha_fin": "2027-03-20",
+    "discos_autorizados": [
+      "HD005"
+    ],
+    "firma": "69240"
+  },
+  {
+    "cliente": "EL GRINGO SAS",
+    "sede": "MERCADILLO",
+    "app": "OMA_PLATURNO",
+    "fecha_ini": "2026-03-09",
+    "fecha_fin": "2027-03-20",
+    "discos_autorizados": [
+      "HD006"
+    ],
+    "firma": "281B8"
   }
 ]}
