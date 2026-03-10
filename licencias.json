@@ -2,7 +2,7 @@
     "cliente": "OpenMind Advisory",
     "sede": "Gerencia",
     "app": "OMA_PLATURNO",
-    "fecha_ini": "2026-03-09",
+    "fecha_ini": "2026-03-11",
     "fecha_fin": "2027-03-20",
     "discos_autorizados": [
       "0025_38A6_11D5_775A."
@@ -76,3 +76,4 @@
     "firma": "281B8"
   }
 ]}
+
