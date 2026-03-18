@@ -2,12 +2,12 @@
     "cliente": "OpenMind Advisory",
     "sede": "Gerencia OMA",
     "app": "OMA_PLATURNO",
-    "fecha_ini": "2026-03-10",
+    "fecha_ini": "2026-03-09",
     "fecha_fin": "2027-03-20",
     "discos_autorizados": [
       "0025_38A6_11D5_775A."
     ],
-    "firma": "1179B"
+    "firma": "11CA17"
   },
   {
     "cliente": "EL GRINGO SAS",
@@ -33,7 +33,7 @@
   },
   {
     "cliente": "EL GRINGO SAS",
-    "sede": "EL GRINGO PEï¿½ON",
+    "sede": "EL GRINGO PEÑON",
     "app": "OMA_PLATURNO",
     "fecha_ini": "2026-03-09",
     "fecha_fin": "2027-03-20",
@@ -76,5 +76,3 @@
     "firma": "281B8"
   }
 ]}
-
-
