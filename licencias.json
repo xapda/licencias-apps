@@ -33,7 +33,7 @@
   },
   {
     "cliente": "EL GRINGO SAS",
-    "sede": "EL GRINGO PEÑON",
+    "sede": "EL GRINGO PE�ON",
     "app": "OMA_PLATURNO",
     "fecha_ini": "2026-03-09",
     "fecha_fin": "2027-03-20",
@@ -49,9 +49,9 @@
     "fecha_ini": "2026-03-09",
     "fecha_fin": "2027-03-20",
     "discos_autorizados": [
-      "0025_38A6_11D5_775A."
+      "0000_0000_0000_0001_00A0_7522_38DF_52F1."
     ],
-    "firma": "E71A4"
+    "firma": "20701"
   },
   {
     "cliente": "EL GRINGO SAS",
@@ -86,5 +86,4 @@
     ],
     "firma": "F397C"
   }
-]}
 ]}
