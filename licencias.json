@@ -16,9 +16,9 @@
     "fecha_ini": "2026-03-09",
     "fecha_fin": "2027-03-20",
     "discos_autorizados": [
-      "HD001"
+      "QA000000000000003572"
     ],
-    "firma": "526CB"
+    "firma": "AD8F0"
   },
   {
     "cliente": "EL GRINGO SAS",
@@ -87,3 +87,4 @@
     "firma": "F397C"
   }
 ]}
+
