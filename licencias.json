@@ -1,90 +1,90 @@
 {"licencias":[  {
     "cliente": "OpenMind Advisory",
     "sede": "Gerencia OMA",
-    "app": "OMA_PLATURNO",
+    "app": "OMA_ECOSISTEMA",
     "fecha_ini": "2026-03-09",
     "fecha_fin": "2027-03-20",
     "discos_autorizados": [
       "0025_38A6_11D5_775A."
     ],
-    "firma": "11CA17"
+    "firma": "185B2D"
   },
   {
     "cliente": "EL GRINGO SAS",
     "sede": "EL GRINGO SAN FERNANDO",
-    "app": "OMA_PLATURNO",
+    "app": "OMA_ECOSISTEMA",
     "fecha_ini": "2026-03-09",
     "fecha_fin": "2027-03-20",
     "discos_autorizados": [
       "QA000000000000003572"
     ],
-    "firma": "AD8F0"
+    "firma": "526F7"
   },
   {
     "cliente": "EL GRINGO SAS",
     "sede": "EL GRINGO UNICENTRO",
-    "app": "OMA_PLATURNO",
+    "app": "OMA_ECOSISTEMA",
     "fecha_ini": "2026-03-09",
     "fecha_fin": "2027-03-20",
     "discos_autorizados": [
       "HD002"
     ],
-    "firma": "F91CE"
+    "firma": "98E4F"
   },
   {
     "cliente": "EL GRINGO SAS",
-    "sede": "EL GRINGO PE�ON",
-    "app": "OMA_PLATURNO",
+    "sede": "EL GRINGO PENON",
+    "app": "OMA_ECOSISTEMA",
     "fecha_ini": "2026-03-09",
     "fecha_fin": "2027-03-20",
     "discos_autorizados": [
       "HD003"
     ],
-    "firma": "9C5D7"
+    "firma": "17D127"
   },
   {
     "cliente": "EL GRINGO SAS",
     "sede": "EL GRINGO PANCE",
-    "app": "OMA_PLATURNO",
+    "app": "OMA_ECOSISTEMA",
     "fecha_ini": "2026-03-09",
     "fecha_fin": "2027-03-20",
     "discos_autorizados": [
       "0000_0000_0000_0001_00A0_7522_38DF_52F1."
     ],
-    "firma": "20701"
+    "firma": "127913"
   },
   {
     "cliente": "EL GRINGO SAS",
     "sede": "EL GRINGO CATERING",
-    "app": "OMA_PLATURNO",
+    "app": "OMA_ECOSISTEMA",
     "fecha_ini": "2026-03-09",
     "fecha_fin": "2027-03-20",
     "discos_autorizados": [
       "HD005"
     ],
-    "firma": "69240"
+    "firma": "168482"
   },
   {
     "cliente": "EL GRINGO SAS",
     "sede": "MERCADILLO",
-    "app": "OMA_PLATURNO",
+    "app": "OMA_ECOSISTEMA",
     "fecha_ini": "2026-03-09",
     "fecha_fin": "2027-03-20",
     "discos_autorizados": [
       "HD006"
     ],
-    "firma": "281B8"
+    "firma": "1BC3FD"
   },
   {
     "cliente": "OpenMind Advisory",
     "sede": "Gerencia OMA",
-    "app": "OMA_PLATURNO",
+    "app": "OMA_ECOSISTEMA",
     "fecha_ini": "2026-03-09",
     "fecha_fin": "2027-03-20",
     "discos_autorizados": [
       "6VPFV2PP"
     ],
-    "firma": "F397C"
+    "firma": "134E2D"
   }
 ]}
 
