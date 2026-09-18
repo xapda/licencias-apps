@@ -4,31 +4,137 @@
   "nota": "Parametros de liquidacion de OMA_PLATURNO. Cada parametro es una lista de tramos; la aplicacion toma el ultimo cuyo 'desde' no supere la fecha del periodo que se liquida. Los tramos futuros se pueden publicar por anticipado: entran solos el dia que les toca. No borrar tramos viejos: hacen falta para recalcular periodos pasados.",
   "parametros": {
     "horas_semanales": [
-      { "desde": "2026-01-01", "valor": 42 }
+      {
+        "desde": "2026-01-01",
+        "valor": 42
+      }
     ],
     "extras_diurnas": [
-      { "desde": "2026-01-01", "valor": 0.7 }
+      {
+        "desde": "2026-01-01",
+        "valor": 0.7
+      }
     ],
     "zona_alerta": [
-      { "desde": "2026-01-01", "valor": 0.9 }
+      {
+        "desde": "2026-01-01",
+        "valor": 0.9
+      }
     ],
     "zona_critica": [
-      { "desde": "2026-01-01", "valor": 0 }
+      {
+        "desde": "2026-01-01",
+        "valor": 0
+      }
     ],
     "limite_superior_he": [
-      { "desde": "2026-01-01", "valor": 0.2 }
+      {
+        "desde": "2026-01-01",
+        "valor": 0.2
+      }
     ],
     "ini_noct": [
-      { "desde": "2026-01-01", "valor": 19 }
+      {
+        "desde": "2026-01-01",
+        "valor": 19
+      }
     ],
     "minimo": [
-      { "desde": "2026-01-01", "valor": 1750905 }
+      {
+        "desde": "2026-01-01",
+        "valor": 1750905
+      }
     ],
     "recargo_nocturno": [
-      { "desde": "2026-01-01", "valor": 0.35 }
+      {
+        "desde": "2026-01-01",
+        "valor": 0.35
+      }
     ],
     "recargo_dominical": [
-      { "desde": "2026-01-01", "valor": 0.9 }
+      {
+        "desde": "2026-01-01",
+        "valor": 0.9
+      }
     ]
-  }
+  },
+  "festivos": [
+    {
+      "fecha": "2026-01-01",
+      "nombre": "Ano nuevo"
+    },
+    {
+      "fecha": "2026-01-12",
+      "nombre": "Reyes Magos"
+    },
+    {
+      "fecha": "2026-03-23",
+      "nombre": "San Jose"
+    },
+    {
+      "fecha": "2026-04-02",
+      "nombre": "Jueves Santo"
+    },
+    {
+      "fecha": "2026-04-03",
+      "nombre": "Viernes Santo"
+    },
+    {
+      "fecha": "2026-05-01",
+      "nombre": "Dia del trabajo"
+    },
+    {
+      "fecha": "2026-05-18",
+      "nombre": "Ascension"
+    },
+    {
+      "fecha": "2026-06-08",
+      "nombre": "Corpus Christi"
+    },
+    {
+      "fecha": "2026-06-15",
+      "nombre": "Sagrado Corazon"
+    },
+    {
+      "fecha": "2026-06-29",
+      "nombre": "San Pedro y San Pablo"
+    },
+    {
+      "fecha": "2026-07-13",
+      "nombre": "Nuestra Senora del Rosario de Chiquinquira"
+    },
+    {
+      "fecha": "2026-07-20",
+      "nombre": "Independencia"
+    },
+    {
+      "fecha": "2026-08-07",
+      "nombre": "Batalla de Boyaca"
+    },
+    {
+      "fecha": "2026-08-17",
+      "nombre": "Asuncion de la Virgen"
+    },
+    {
+      "fecha": "2026-10-12",
+      "nombre": "Dia de la raza"
+    },
+    {
+      "fecha": "2026-11-02",
+      "nombre": "Todos los santos"
+    },
+    {
+      "fecha": "2026-11-16",
+      "nombre": "Independencia de Cartagena"
+    },
+    {
+      "fecha": "2026-12-08",
+      "nombre": "Inmaculada Concepcion"
+    },
+    {
+      "fecha": "2026-12-25",
+      "nombre": "Navidad"
+    }
+  ],
+  "nota_festivos": "Festivos nacionales de Colombia, suministrados y verificados por el administrador del proyecto. Cada dia de la semana se comprobo contra la fecha. Al empezar un ano nuevo hay que agregar su lista; no borrar las de anos anteriores, hacen falta para recalcular periodos pasados."
 }
