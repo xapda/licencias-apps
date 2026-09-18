@@ -1,0 +1,34 @@
+{
+  "esquema": 1,
+  "actualizado": "2026-09-18",
+  "nota": "Parametros de liquidacion de OMA_PLATURNO. Cada parametro es una lista de tramos; la aplicacion toma el ultimo cuyo 'desde' no supere la fecha del periodo que se liquida. Los tramos futuros se pueden publicar por anticipado: entran solos el dia que les toca. No borrar tramos viejos: hacen falta para recalcular periodos pasados.",
+  "parametros": {
+    "horas_semanales": [
+      { "desde": "2026-01-01", "valor": 42 }
+    ],
+    "extras_diurnas": [
+      { "desde": "2026-01-01", "valor": 0.7 }
+    ],
+    "zona_alerta": [
+      { "desde": "2026-01-01", "valor": 0.9 }
+    ],
+    "zona_critica": [
+      { "desde": "2026-01-01", "valor": 0 }
+    ],
+    "limite_superior_he": [
+      { "desde": "2026-01-01", "valor": 0.2 }
+    ],
+    "ini_noct": [
+      { "desde": "2026-01-01", "valor": 19 }
+    ],
+    "minimo": [
+      { "desde": "2026-01-01", "valor": 1750905 }
+    ],
+    "recargo_nocturno": [
+      { "desde": "2026-01-01", "valor": 0.35 }
+    ],
+    "recargo_dominical": [
+      { "desde": "2026-01-01", "valor": 0.9 }
+    ]
+  }
+}
